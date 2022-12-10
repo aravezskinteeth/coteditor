@@ -1,0 +1,56 @@
+{
+  "attributes" : {
+    "color" : "#f1b2e1"
+  },
+  "background" : {
+    "color" : "#1b1d2c"
+  },
+  "characters" : {
+    "color" : "#79d5e6"
+  },
+  "commands" : {
+    "color" : "#77a2f8"
+  },
+  "comments" : {
+    "color" : "#5b5f7a"
+  },
+  "insertionPoint" : {
+    "color" : "#f2d8d4"
+  },
+  "invisibles" : {
+    "color" : "#8186a3"
+  },
+  "keywords" : {
+    "color" : "#be90f5"
+  },
+  "lineHighlight" : {
+    "color" : "#252534"
+  },
+  "metadata" : {
+    "author" : "aravezskinteeth",
+    "description" : "📝 Soothing pastel theme for CotEditor",
+    "license" : "MIT license"
+  },
+  "numbers" : {
+    "color" : "#e48c9c"
+  },
+  "selection" : {
+    "color" : "#353648",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#98e090"
+  },
+  "text" : {
+    "color" : "#c2cbf1"
+  },
+  "types" : {
+    "color" : "#f7dca0"
+  },
+  "values" : {
+    "color" : "#85ddcb"
+  },
+  "variables" : {
+    "color" : "#f7a374"
+  }
+}

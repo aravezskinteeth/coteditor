@@ -43,8 +43,8 @@
 
 ## 🙋 FAQ (optional)
 
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+- Q: **_"Where can I find the doc?"_**\
+  A: Run `:help theme`
 
 ## 💝 Thanks to
 
