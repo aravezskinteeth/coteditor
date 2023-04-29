@@ -1,8 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin for CotEditor
 </h3>
 
 <p align="center">
@@ -12,43 +11,52 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="~/Git/../../assets/out/composite2.png"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+<img src="~/../assets/catppuccin-latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+<img src="~/../assets/catppuccin-frape.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+<img src="~/../assets/catppuccin-macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+<img src="~/../assets/catppuccin-mocha.png"/>
 </details>
 
 ## Usage
 
 1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+   ```shell
+   git clone 
+   ```
+2. Open `CotEditor`.
+3. Go to the menu **CotEditor** > **Preferences** 
+4. Select **Appearance**.
+5. Click on the `...` on the *Themes* section.
+6. Select `Import...` and browse to where you cloned this repo.
+7. Go to the themes directory and select your flavour.
 
 ## 🙋 FAQ (optional)
 
-- Q: **_"Where can I find the doc?"_**\
-  A: Run `:help theme`
+- Q: **_"Which font are you using in the previews?"_**\
+  A: I'm using a patched nerd version of the [JetBrainsMono](https://www.nerdfonts.com/font-downloads) font in size 14.
+
+- Q: **_"What other settings do you use in the previews"_**\
+  A: I have enabled **Anti-aliasing**, **Ligatures**. Line height is set to 1.2. **Change background color** is enabled. The cursor is set to **block**. And most importanly, I've enabled **Show invisible characters**, such as **spaces**, **other whitespaces** and **Show indent guides**.
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [aravezskinteeth](https://github.com/aravezskinteeth)
 
 &nbsp;
 
