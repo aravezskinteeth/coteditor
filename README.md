@@ -37,7 +37,7 @@
 
 1. Clone this repository locally
    ```shell
-   git clone 
+   git clone https://github.com/aravezskinteeth/coteditor.git
    ```
 2. Open `CotEditor`.
 3. Go to the menu **CotEditor** > **Preferences** 
