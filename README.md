@@ -35,7 +35,7 @@
 
 ## Usage
 
-1. Clone this repository locally
+1. Clone this repository locally or just downlaoad your favorite flavor from the Releases's section.
    ```shell
    git clone https://github.com/aravezskinteeth/coteditor.git
    ```
@@ -43,7 +43,7 @@
 3. Go to the menu **CotEditor** > **Preferences** 
 4. Select **Appearance**.
 5. Click on the `...` on the *Themes* section.
-6. Select `Import...` and browse to where you cloned this repo.
+6. Select `Import...` and browse to where you cloned/downloaded this repo or your favorite flavor.
 7. Go to the themes directory and select your flavour.
 
 ## 🙋 FAQ
