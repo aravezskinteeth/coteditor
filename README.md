@@ -46,7 +46,7 @@
 6. Select `Import...` and browse to where you cloned this repo.
 7. Go to the themes directory and select your flavour.
 
-## 🙋 FAQ (optional)
+## 🙋 FAQ
 
 - Q: **_"Which font are you using in the previews?"_**\
   A: I'm using a patched nerd version of the [JetBrainsMono](https://www.nerdfonts.com/font-downloads) font in size 14.
