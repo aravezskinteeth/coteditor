@@ -1,6 +1,6 @@
 {
   "attributes" : {
-    "color" : "#f1b2e1"
+    "color" : "#f1ace0"
   },
   "background" : {
     "color" : "#1b1d2c"
@@ -29,10 +29,12 @@
   "metadata" : {
     "author" : "aravezskinteeth",
     "description" : "📝 Soothing pastel theme for CotEditor",
-    "license" : "MIT license"
+    "distributionURL" : "https:\/\/github.com\/aravezskinteeth\/coteditor",
+    "license" : "MIT "
   },
+  "name" : "catppuccin-macchiato",
   "numbers" : {
-    "color" : "#e48c9c"
+    "color" : "#f1986c"
   },
   "selection" : {
     "color" : "#353648",
@@ -51,6 +53,6 @@
     "color" : "#85ddcb"
   },
   "variables" : {
-    "color" : "#f7a374"
+    "color" : "#f1986c"
   }
 }

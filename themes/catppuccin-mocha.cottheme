@@ -26,8 +26,15 @@
   "lineHighlight" : {
     "color" : "#252534"
   },
+  "metadata" : {
+    "author" : "aravezskinteeth",
+    "description" : "📝 Soothing pastel theme for CotEditor",
+    "distributionURL" : "https:\/\/github.com\/aravezskinteeth\/coteditor",
+    "license" : "MIT"
+  },
+  "name" : "catppuccin-mocha",
   "numbers" : {
-    "color" : "#e48c9c"
+    "color" : "#f7a374"
   },
   "selection" : {
     "color" : "#353648",

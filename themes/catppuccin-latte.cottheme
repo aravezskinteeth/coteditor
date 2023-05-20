@@ -26,8 +26,15 @@
   "lineHighlight" : {
     "color" : "#c1c5d1"
   },
+  "metadata" : {
+    "author" : "aravezskinteeth",
+    "description" : "📝 Soothing pastel theme for CotEditor",
+    "distributionURL" : "https:\/\/github.com\/aravezskinteeth\/coteditor",
+    "license" : "MIT"
+  },
+  "name" : "catppuccin-latte",
   "numbers" : {
-    "color" : "#dd2d42"
+    "color" : "#fb4c0e"
   },
   "selection" : {
     "color" : "#aeb2c1",

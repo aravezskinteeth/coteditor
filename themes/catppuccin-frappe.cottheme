@@ -6,7 +6,7 @@
     "color" : "#242736"
   },
   "characters" : {
-    "color" : "#79d5e6"
+    "color" : "#89c7d2"
   },
   "commands" : {
     "color" : "#77a2f8"
@@ -26,8 +26,9 @@
   "lineHighlight" : {
     "color" : "#323547"
   },
+  "name" : "catppuccin-frappe",
   "numbers" : {
-    "color" : "#e48c9c"
+    "color" : "#e98d63"
   },
   "selection" : {
     "color" : "#40445a",
@@ -46,6 +47,6 @@
     "color" : "#85ddcb"
   },
   "variables" : {
-    "color" : "#f7a374"
+    "color" : "#f1986c"
   }
 }
