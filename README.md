@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="/git/my-own-repos/coteditor/assets/out/composite.PNG"/>
+	<img src="https://github.com/aravezskinteeth/coteditor/blob/main/assets/out/composite.PNG?raw=true"/>
 </p>
 
 ## Previews
